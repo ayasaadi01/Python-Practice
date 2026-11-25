@@ -1,0 +1,6 @@
+python >
+
+
+pip install kaggle
+pip install kagglehub
+pip install statsmodels
